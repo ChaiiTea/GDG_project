@@ -1,0 +1,6 @@
+Projectvenv
+venv
+.env
+__pycache__
+api_logs.log
+
